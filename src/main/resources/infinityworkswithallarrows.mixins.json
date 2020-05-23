@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "tfar.infinityworkswithallarrows.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "infinityworkswithallarrows.refmap.json",
+  "mixins": [
+    "MixinArrowItem"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
